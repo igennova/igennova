@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/igennova" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1920px-Codechef%28new%29_logo.svg.png" alt="igennova" height="30"></a>
+<a href="https://www.codechef.com/users/bouquet_ray_86" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1920px-Codechef%28new%29_logo.svg.png" alt="igennova" height="30"></a>
 <a href="https://www.linkedin.com/in/lalitnegi001/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png" alt="Lalit Negi" height="27"></a>
 </p>
 
