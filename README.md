@@ -91,20 +91,3 @@
 
 ---
 
-### 🎯 Goals
-- Contribute to more **open-source projects**.
-- Build **scalable and efficient web applications**.
-- Master **DevOps and Cloud Technologies**.
-
----
-
-### 📝 Latest Blog Posts
-<!-- Add your blog posts here if you have any -->
-- [How to Build a Full Stack MERN Application](https://example.com)
-- [Top 10 JavaScript Tips for Beginners](https://example.com)
-
----
-
-<p align="center">
-  <img src="https://github.com/igennova/igennova/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
