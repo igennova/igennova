@@ -36,7 +36,7 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.codechef.com/users/bouquet_ray_86" target="blank">
+  <a href="https://www.codechef.com/users/clutch_pet_01" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1920px-Codechef%28new%29_logo.svg.png" alt="CodeChef" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/lalitnegi001/" target="blank">
