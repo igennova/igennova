@@ -1,74 +1,168 @@
-<h3>Hey there 👋</h3>
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          SYSTEM INITIALIZATION                               ║
+║                     [ LALIT NEGI / CORE PROTOCOL v2.5 ]                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<p>
-I'm Lalit Negi — a 20 y/o CS student passionate about building scalable systems,
-real-time applications, and impactful open source software.
-</p>
+```ascii
+    ██╗      █████╗ ██╗     ██╗████████╗    ███╗   ██╗███████╗ ██████╗ ██╗
+    ██║     ██╔══██╗██║     ██║╚══██╔══╝    ████╗  ██║██╔════╝██╔════╝ ██║
+    ██║     ███████║██║     ██║   ██║       ██╔██╗ ██║█████╗  ██║  ███╗██║
+    ██║     ██╔══██║██║     ██║   ██║       ██║╚██╗██║██╔══╝  ██║   ██║██║
+    ███████╗██║  ██║███████╗██║   ██║       ██║ ╚████║███████╗╚██████╔╝██║
+    ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝       ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝
+```
 
-<hr>
+---
 
-<h2>🚀 My Journey</h2>
+## `[SYSTEM_PROFILE]`
 
-<p>
-Started coding in 2023, got into hackathons & open source soon after.
-</p>
+```yaml
+operator: Lalit Negi
+age: 20
+role: Computer Science Engineer
+specialization: [Backend Systems, Real-Time Infrastructure, AI Pipelines]
+boot_year: 2023
+status: OPERATIONAL
+```
 
-<p>
-🏆 Won multiple hackathons<br>
-💰 Earned $3K+ in open-source bounties
-</p>
+**Mission Statement:** Engineering scalable, real-time systems and contributing to open-source infrastructure that powers next-generation applications.
 
-<p>
-Selected for Google Summer of Code 2025 @ OWASP Foundation,
-where I built real-time video calling (WebRTC), live leaderboards,
-and security simulation labs.
-</p>
+---
 
-<p>
-🔗 <strong>All My OWASP PRs:</strong><br>
-<a href="https://github.com/OWASP-BLT/BLT/pulls?q=is%3Apr+author%3Aigennova+is%3Aclosed">
-View Contributions
-</a>
-</p>
+## `[OPERATIONAL_TIMELINE]`
 
-<p>
-Worked as:<br>
-Backend Developer @ Persist Venture (AI media pipeline, FastAPI, PostgreSQL)<br>
-SWE Intern @ PUCH AI
-</p>
+### ⚙️ **Phase 1: System Boot** `[2023]`
+```
+> Initializing development protocols...
+> Loading competitive programming modules...
+> Hackathon subroutines: ACTIVE
+```
 
-<hr>
+### 🏆 **Phase 2: Performance Metrics**
+```diff
++ HACKATHONS_WON: MULTIPLE
++ BOUNTIES_EARNED: $3,000+
++ OPEN_SOURCE_IMPACT: HIGH
+```
 
-<h2>🛠 What I Work With</h2>
+### 🔧 **Phase 3: Google Summer of Code 2025** `[@OWASP Foundation]`
+```
+DEPLOYED SYSTEMS:
+├── WebRTC Video Engine (Real-time peer communication)
+├── Live Leaderboard Infrastructure (Redis + WebSockets)
+└── Security Simulation Laboratory (CTF-style training platform)
+```
 
-<p>
-Backend • FastAPI • Node.js • PostgreSQL • Redis<br>
-WebSockets • WebRTC • System Design • AI Infrastructure
-</p>
+**📂 Full Contribution Log:**  
+→ [`View All OWASP Merged PRs`](https://github.com/OWASP-BLT/BLT/pulls?q=is%3Apr+author%3Aigennova+is%3Aclosed)
 
-<p>
-Built <strong>LeetFight</strong> — a real-time 1v1 coding battle platform (180+ users).
-</p>
+---
 
-<p>
-🔗 Live Demo:<br>
-<a href="https://leetfight.xyz">leetfight.xyz</a>
-</p>
+## `[WORK_EXPERIENCE]`
 
-<hr>
+### **Backend Developer** • Persist Venture
+```
+STACK: FastAPI | PostgreSQL | AI Media Processing
+ROLE: Architected AI-powered media pipeline for content transformation
+```
 
-<p>
-Currently contributing from another GitHub account for ongoing work — 
-hence activity is distributed across profiles.
-</p>
+### **Software Engineering Intern** • PUCH AI
+```
+ROLE: System integration & AI infrastructure development
+```
 
-<hr>
+---
 
-<p>
-Currently diving deeper into:<br>
-Algorithms • CS Fundamentals • Scalable AI Systems
-</p>
+## `[TECH_STACK]`
 
-<p>
-Feel free to connect — always open to collaborating or building something meaningful 🚀
-</p>
+```
+┌─────────────────────────────────────────────────────────────┐
+│  BACKEND CORE                                               │
+├─────────────────────────────────────────────────────────────┤
+│  • FastAPI         → High-performance async framework      │
+│  • Node.js         → Event-driven runtime                  │
+│  • PostgreSQL      → Relational data persistence           │
+│  • Redis           → In-memory caching & pub/sub           │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│  REAL-TIME SYSTEMS                                          │
+├─────────────────────────────────────────────────────────────┤
+│  • WebSockets      → Bidirectional communication           │
+│  • WebRTC          → Peer-to-peer media streaming          │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│  ARCHITECTURE                                               │
+├─────────────────────────────────────────────────────────────┤
+│  • System Design   → Scalable infrastructure patterns      │
+│  • AI Pipelines    → ML model integration & deployment     │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `[FLAGSHIP_PROJECT]`
+
+### **LeetFight** — Real-Time 1v1 Coding Arena
+```
+┌──────────────────────────────────────────────┐
+│ STATUS: [████████████████████████] LIVE     │
+│ USERS:  180+ ACTIVE COMBATANTS              │
+│ LATENCY: <50ms (WebSocket sync)             │
+└──────────────────────────────────────────────┘
+
+FEATURES:
+├─ Real-time code synchronization
+├─ Live judgment engine integration
+├─ WebSocket-based matchmaking
+└─ Competitive rating system (ELO-based)
+```
+
+**🌐 Deploy URL:** [`leetfight.xyz`](https://leetfight.xyz)
+
+---
+
+## `[CURRENT_OPERATIONS]`
+
+```bash
+$ cat /proc/current_focus
+───────────────────────────────────────────────
+│ [▓▓▓▓▓▓▓▓▓▓░░░░░░░] Algorithms & Data Structures
+│ [▓▓▓▓▓▓▓▓░░░░░░░░░] CS Fundamentals
+│ [▓▓▓▓▓▓▓▓▓░░░░░░░░] Scalable AI Systems
+│ [▓▓▓▓▓▓▓▓▓▓▓░░░░░░] Distributed Systems Design
+───────────────────────────────────────────────
+```
+
+**Note:** Active development distributed across multiple GitHub profiles for ongoing commercial/research projects.
+
+---
+
+## `[COLLABORATION_PROTOCOL]`
+
+```
+> Ready to collaborate on:
+  ├─ Backend system architecture
+  ├─ Real-time application development
+  ├─ Open-source infrastructure projects
+  └─ AI/ML pipeline engineering
+
+> Connection ports: OPEN
+> Handshake protocol: ENABLED
+```
+
+**Let's build something extraordinary together.** 🚀⚡
+
+---
+
+```
+[END_OF_TRANSMISSION]
+────────────────────────────────────────────────────────────────────────────────
+System diagnostics: ✓ All modules operational
+Last updated: 2026
+Maintained by: Lalit Negi
+────────────────────────────────────────────────────────────────────────────────
+```
