@@ -15,7 +15,6 @@ Started coding in 2023, got into hackathons & open source soon after.
 
 <p>
 🏆 Won multiple hackathons<br>
-⭐ 4★ CodeChef<br>
 💰 Earned $3K+ in open-source bounties
 </p>
 
