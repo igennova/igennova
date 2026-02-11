@@ -94,12 +94,6 @@ ROLE: System integration & AI infrastructure development
 │  • WebRTC          → Peer-to-peer media streaming          │
 └─────────────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────────────┐
-│  ARCHITECTURE                                               │
-├─────────────────────────────────────────────────────────────┤
-│  • System Design   → Scalable infrastructure patterns      │
-│  • AI Pipelines    → ML model integration & deployment     │
-└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
