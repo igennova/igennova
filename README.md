@@ -25,8 +25,14 @@ Real-time 1v1 coding arena. Players compete on the same problem simultaneously w
 **[doc-o-drop](https://doc-o-drop.vercel.app/)** — AI health and wellness platform
 
 ## Stack
-
-FastAPI, Node.js, PostgreSQL, Redis, WebSockets, WebRTC, Python
+- Backend & APIs: FastAPI, Node.js, Django, REST, WebSockets, WebRTC
+- Frontend: Next.js
+- Databases & Caching: PostgreSQL, Redis (with Lua scripting)
+- Queue & Jobs: BullMQ
+- DevOps & Infra: Docker, AWS (Lambda), CI/CD
+- Languages: TypeScript, Python
+- Concepts: System Design, Scalable Systems, Microservices
+- Other: Remotion, FFmpeg, Supabase
 
 ## Highlights
 
