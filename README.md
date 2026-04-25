@@ -21,7 +21,9 @@ End-to-end prompt → script → voice → scenes → render workflow built with
 
 **[LeetFight](https://leetfight.xyz)**  
 Real-time 1v1 coding arena. Players compete on the same problem simultaneously with live code sync, instant judging, and an ELO rating system. 180+ active users, sub-50ms WebSocket latency.
-Fun Projects
+
+
+### Fun Projects
 **[text-to-video-engine](https://text-to-video-1wr1.onrender.com/)** — AI video generation  
 **[seedhe-maut-player](https://seedhe-maut-three.vercel.app/)** — Custom music player  
 **[anime-predictor](https://anime-predictor-ulob.vercel.app/)** — LeetCode to anime matcher  
