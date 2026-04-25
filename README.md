@@ -37,11 +37,13 @@ Real-time 1v1 coding arena. Players compete on the same problem simultaneously w
 ## Highlights
 
 - Multiple hackathons won
-- $10,000+ in open-source bounties
+- $20,000+ in open-source bounties
 - GSoC 2025 contributor at OWASP
 
 ---
 
 Open to collaborating on backend systems, real-time infrastructure, and AI pipelines.
+
+Currently working on [Wemakevideos](https://quotesnap-alpha.vercel.app/)
 
 [luckynegi1025@gmail.com](mailto:luckynegi1025@gmail.com)
