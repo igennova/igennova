@@ -22,7 +22,14 @@ End-to-end prompt → script → voice → scenes → render workflow built with
 **[LeetFight](https://leetfight.xyz)**  
 Real-time 1v1 coding arena. Players compete on the same problem simultaneously with live code sync, instant judging, and an ELO rating system. 180+ active users, sub-50ms WebSocket latency.
 
-
+* @PostHog ( [Link](https://github.com/PostHog/posthog/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
+* @antiwork ( [Link](https://github.com/antiwork/gumroad/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
+* @antiwork/gumboard ( [Link](https://github.com/antiwork/gumboard/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
+* @antiwork (bounty PRs via @devwill2) ( [Link](https://github.com/antiwork/gumroad/issues?q=is%3Apr%20is%3Amerged%20author%3Adevwill2) )
+* @OWASP-BLT ( [Link](https://github.com/OWASP-BLT/BLT/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
+* @openml ( [Link](https://github.com/openml/openml/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
+* @getnao ( [Link](https://github.com/getnao/nao/pulls?q=is%3Apr+author%3Aigennova+is%3Aclosed)
+* @PalisadoesFoundation([Link](https://github.com/PalisadoesFoundation/talawa-api/pulls?q=is%3Apr+author%3Aigennova+is%3Amerged))
 ### Fun Projects
 **[text-to-video-engine](https://text-to-video-1wr1.onrender.com/)** — AI video generation  
 **[seedhe-maut-player](https://seedhe-maut-three.vercel.app/)** — Custom music player  
