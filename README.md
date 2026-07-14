@@ -21,6 +21,7 @@ End-to-end prompt → script → voice → scenes → render workflow built with
 **[LeetFight](https://leetfight.xyz)**  
 Real-time 1v1 coding arena. Players compete on the same problem simultaneously with live code sync, instant judging, and an ELO rating system. 180+ active users, sub-50ms WebSocket latency.
 
+## Open Source Contributions
 * @PostHog ( [Link](https://github.com/PostHog/posthog/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
 * @antiwork ( [Link](https://github.com/antiwork/gumroad/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
 * @antiwork/gumboard ( [Link](https://github.com/antiwork/gumboard/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
