@@ -6,7 +6,6 @@ Backend engineer. I build real-time systems, AI pipelines, and open-source infra
 
 **Google Summer of Code 2025** — OWASP Foundation  
 Built a WebRTC video engine, live leaderboard with Redis and WebSockets, and a CTF-style security simulation lab.  
-[View merged PRs](https://github.com/OWASP-BLT/BLT/pulls?q=is%3Apr+author%3Aigennova+is%3Aclosed)
 
 **Backend Developer** — Persist Venture  
 Architected an AI-powered media pipeline using FastAPI and PostgreSQL.
