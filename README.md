@@ -27,7 +27,7 @@ Real-time 1v1 coding arena. Players compete on the same problem simultaneously w
 * @antiwork/gumboard ( [Link](https://github.com/antiwork/gumboard/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
 * @antiwork (bounty PRs via @devwill2) ( [Link](https://github.com/antiwork/gumroad/issues?q=is%3Apr%20is%3Amerged%20author%3Adevwill2) )
 * @OWASP-BLT ( [Link](https://github.com/OWASP-BLT/BLT/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
-* @openml ( [Link](https://github.com/openml/openml/issues?q=is%3Apr%20is%3Amerged%20author%3Aigennova) )
+* @openml ( [Link](https://github.com/openml/server-api/pulls?q=is%3Apr+author%3Aigennova+is%3Aclosed) )
 * @getnao ( [Link](https://github.com/getnao/nao/pulls?q=is%3Apr+author%3Aigennova+is%3Aclosed)
 * @PalisadoesFoundation([Link](https://github.com/PalisadoesFoundation/talawa-api/pulls?q=is%3Apr+author%3Aigennova+is%3Amerged))
 ### Fun Projects
