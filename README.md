@@ -56,6 +56,6 @@ Real-time 1v1 coding arena. Players compete on the same problem simultaneously w
 
 Open to collaborating on backend systems, real-time infrastructure, and AI pipelines.
 
-Currently working on [Wemakevideos](https://quotesnap-alpha.vercel.app/)
+Currently working on [Distributed Vector Search Engine]([https://quotesnap-alpha.vercel.app/](https://github.com/igennova/Distributed-Vector-Search-Engine))
 
 [luckynegi1025@gmail.com](mailto:luckynegi1025@gmail.com)
