@@ -18,13 +18,13 @@ Architected an AI-powered media pipeline using FastAPI and PostgreSQL.
 **[Distributed Vector Search Engine](https://github.com/igennova/Distributed-Vector-Search-Engine)** — ANN search from scratch  
 HNSW nearest-neighbor search built from scratch (0.93 recall@10 at 2.5× lower latency vs exact). Sharded across gRPC services with a scatter-gather coordinator; cut 4-shard latency 3.5× (5.6 → 1.6 ms) after profiling GIL contention. Python + gRPC + NumPy.
 
-**[WeMakeVideos](https://quotesnap-alpha.vercel.app/)** — AI text-to-video SaaS (demo landing)  
+**[WeMakeVideos](https://quotesnap-vfaw.vercel.app)** — AI text-to-video SaaS (demo landing)  
 End-to-end prompt → script → voice → scenes → render workflow built with Next.js + TypeScript + Remotion. Public demo showcases the landing + product preview; full app walkthrough available on request.
 
 **[ZeroCostShorts](https://github.com/igennova/ZeroCost-Shorts)** — Automated AI video pipeline (76★)  
 Fully autonomous pipeline (LLM → TTS → image gen → FFmpeg render → YouTube upload) running daily via GitHub Actions at ~$0/day. Forked by others for their own workflows.
 
-**[LeetFight](https://leetfight.xyz)**  
+**[LeetFight](https://cp-nextjs-iota.vercel.app)**  
 Real-time 1v1 coding arena. Players compete on the same problem simultaneously with live code sync, instant judging, and an ELO rating system. 180+ active users, sub-50ms WebSocket latency.
 
 ## Open Source Contributions
